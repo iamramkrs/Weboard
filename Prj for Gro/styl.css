@@ -1,0 +1,112 @@
+html, body{
+    margin:0;
+    padding: 0;
+    overflow-x:hidden;
+}
+.top-bar{
+    background-color: 	#6b6b6b;
+    padding: 5px;
+}
+.top-bar span{
+    font-size: 12px;
+    padding: 15px
+}
+.nav{
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: -2px;
+}
+.front_p{
+    font-size: 12px;
+    padding: 0%;
+    width: 18em;
+    height: 10px;
+    font-weight: 700;
+}
+.front_icon{
+    width:6em ;
+    height: 7em;
+    font-size: 5em;
+    padding-left: 5px;
+}
+.front_bg{
+    background-color: blueviolet;
+
+}
+.heading{
+    color:blueviolet ;
+    text-align: center;
+    text-decoration: underline orange;
+    margin-top: 60px;
+}
+.wide{
+    background-color: blueviolet;;
+    width: 100%;
+    overflow: hidden;
+}
+.grid{
+    font-size: 12px;
+    text-align: center;
+    border: solid lightgray;
+    position: fixed;
+}
+.icon{
+    font-size: 50px;
+    text-align: center;
+    color: blueviolet;;
+}
+.h{
+    color: orange;
+    font-size: 20px;
+}
+.p{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 15px;
+}
+.r{
+    
+    border-bottom:solid whitesmoke;    
+    border-top:solid whitesmoke;
+    margin-top: 3em;
+    padding: 10px;
+}
+.team{
+    background-color: orange;
+}
+.h3_1{
+    text-align: center;
+    color: white;
+    font-size: 4em;
+}
+.p1{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 15px;
+    color: white;
+}
+.r1{
+border-bottom:1px solid whitesmoke;
+}
+.testimonials{
+    background-color: rgb(231, 219, 219);
+}
+.testicon{
+    text-align: center;
+    position: fixed;
+}
+.footer{
+    background-color: orange;
+    color: white;
+}
+.foot_tab{
+    background-color: white;
+    color: rgb(73, 72, 72);
+    margin: 5px;
+    font-size: 12px;
+}
+.dvlpr{
+    padding: 2px;
+    border-top: 1px blueviolet;
+    background-color: blueviolet;
+}
